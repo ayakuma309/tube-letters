@@ -63,7 +63,7 @@ Youtubeを更新したタイミングで見ることができなくて後回し�
 
 - Nodejs(Express)
 - Prisma
-- Supabase
+- Supabase👉planet scaleに移行しました
 
 ### インフラ
 - Vercel
