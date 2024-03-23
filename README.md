@@ -2,17 +2,32 @@
 
 ## サービス概要
 感謝の気持ちを込めて作りました🙇‍♀️
+
 全ての人にありがとうと伝えたいです
+
 今まで本当にありがとうございました🙇‍♀️
+
 私はとても幸せでした😊
 
 **サービスURL**: https://letters-tube.vercel.app/
 
-旧バージョンのGitHubを置いときます
-### backend
-https://github.com/ayakuma309/letters-backend
-### frontend
-https://github.com/ayakuma309/letters-frontend
+----------
+旧バージョンのリポジトリから新しく作り直しました
+
+- Video一覧
+- Qiita一覧
+- Book一覧
+
+新バージョン
+- Video一覧
+- Qiita一覧
+- Note一覧
+- アプリ一覧
+
+実装予定
+- 一覧
+- お問い合わせ
+-----------
 <!--
 ## サービス利用方法
 #### 1. 新規登録後にログインします
