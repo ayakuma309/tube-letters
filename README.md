@@ -55,3 +55,4 @@ Next.js (App Router) / TypeScript / Vercel
 - lint-staged 15.0.2
 - jest 29.7.0
 - testing-library
+- playwright
