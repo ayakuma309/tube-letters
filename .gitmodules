@@ -3,4 +3,4 @@
 	url = git@github.com:ayakuma309/letters-planet-backend.git
 [submodule "letters-frontend"]
 	path = letters-frontend
-	url = git@github.com:ayakuma309/letters-supa-frontend.git
+	url = git@github.com:ayakuma309/letters_planet_frontend.git
