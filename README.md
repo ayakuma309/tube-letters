@@ -41,6 +41,10 @@ Next.js (App Router) / TypeScript / Vercel
 - shadcn/ui
 - Prisma
 
+- QiitaAPI
+- YouTube Data API
+- Google Books APIs
+
 ### その他の主要なライブラリ
 - next-auth 4.24.3
 - zod 3.22.4
