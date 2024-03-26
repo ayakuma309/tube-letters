@@ -1,6 +1,6 @@
 [submodule "letters-backend"]
 	path = letters-backend
-	url = git@github.com:ayakuma309/letters-backend.git
+	url = git@github.com:ayakuma309/letters-planet-backend.git
 [submodule "letters-frontend"]
 	path = letters-frontend
-	url = git@github.com:ayakuma309/letters-frontend.git
+	url = git@github.com:ayakuma309/letters-supa-frontend.git
